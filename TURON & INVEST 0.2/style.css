@@ -1,0 +1,1119 @@
+.img-nav{
+    width: 100px;
+    height: 100px;
+}
+.div-header-nav{
+    background: rgba(255, 255, 255, 0.01);
+    backdrop-filter: blur(30px);
+    position: fixed !important;
+    width: 100%;
+    height: 129px;
+    z-index: 9999;
+}
+.trans-none {
+    text-decoration: none;
+    font-family: 'Montserrat';
+    margin-left: 50px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    line-height: 24px;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: inherit;
+}
+
+.h4-nv-link {
+    margin-left: 100%;
+    width: 54px;
+    margin-right: 100px;
+    height: 22px;
+    color: white;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+}
+.img-main {
+    margin: auto;
+    width: 400px;
+    height: 120px;
+    width: auto;
+}
+.body {
+    background: #FBFBF9;
+    background: rgba(255, 255, 255, 1);
+    margin: 0;
+    overflow: overlay;
+}
+.navbar{
+    background-color: #1F222D;
+}
+.card-img-top{
+    width: 472px;
+    height: 262px;
+}
+.containers-icons {
+    margin-left: 200px;
+    margin-top: 172px;
+}
+.div-con-one-1{
+    width: 472px;
+    height: 524px;
+    background: #F0F3F5;
+    border-radius: 18px;
+    margin-left: 910px;
+    margin-top: -523px;
+}
+.div-con-one {
+    width: 472px;
+    height: 524px;
+    background: #F0F3F5;
+    border-radius: 18px;
+    margin-left: 40px;
+}
+
+.img-8-years {
+    width: 472px;
+    height: 262px;
+}
+
+.icon-1 {
+    margin-left: 191px;
+    margin-top: -50px;
+}
+
+.h2-div-icons {
+    margin-top: 36px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: center;
+    color: #111111;
+}
+
+.p-div-icons {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #111111;
+    opacity: 0.54;
+    margin-top: 18px;
+    margin-left: 84px;
+}
+
+.width1 {
+    width: 267px;
+    height: 60px;
+}
+
+.width2 {
+    width: 294px;
+    height: 60px;
+}
+
+.width3 {
+    width: 292px;
+    height: 60px;
+}
+.div-main{
+    padding: 70px;
+}
+    img {
+        /* width: 682px; */
+        /* height: 521px; */
+        /* margin-left: 658px; */
+        margin-top: 50px;
+        /* border-radius: 8px; */
+        width: 85%;
+        height: 860px;
+        margin-left: 100px;
+        border-radius: 8px;
+    }
+.img2{
+    margin-top: 60px;
+width: 85%;
+height: 860px;
+margin-left: 100px;
+border-radius: 8px;
+}
+.img3{
+    margin-top: 100px;
+width: 616px;
+height: 569px;
+margin-left: 100px;
+border-radius: 8px;
+}
+.img4{
+width: 566px;
+height: 688px;
+margin-left: 864px;
+margin-top: -450px;
+border-radius: 8px;
+}
+.img5{
+width: 616px;
+height: 569px;
+margin-left: 100px;
+margin-block: auto;
+border-radius: 8px;
+}
+.img6{
+width: 566px;
+height: 688px;
+margin-left: 864px;
+border-radius: 8px;
+margin-top: -450px;;
+}
+.img7{
+    width: 85%;
+height: 860px;
+margin-left: 95px;
+border-radius: 8px;
+margin-top: 100px;
+}
+.img8{
+    width: 85%;
+height: 860px;
+margin-left: 95px;
+margin-top: 30px;
+}
+.text3{
+    color: #1F222D;
+    width: 921px;
+height: 120px;
+margin-left: 293px;
+margin-top: 90px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+}
+.text4{
+    color: #1F222D;
+height: 120px;
+margin-top: 90px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+text-align: center;
+
+}
+.text5{
+    color: #1F222D;
+    margin-left: 293px;
+    text-align: center;
+    margin-top: 90px;
+    width: 921px;   
+height: 120px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+}
+.text2{
+    color: #1F222D;
+    margin-left: 293px;
+    text-align: center;
+    margin-top: 90px;
+    width: 921px;   
+height: 120px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+}
+.img9{
+    margin-top: 50px;
+width: 616px;
+height: 569px;
+margin-left: 100px;
+border-radius: 8px;
+}
+.img10{
+    width: 566px;
+height: 688px;
+margin-left: 864px;
+margin-top: -450px;
+border-radius: 8px;
+}
+.text6{
+    color: #1F222D;
+    margin-left: 293px;
+    text-align: center;
+    margin-top: 90px;
+    width: 921px;   
+height: 120px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+}
+.text7{
+    color: #1F222D;
+    margin-left: 293px;
+    text-align: center;
+    margin-top: 90px;
+    width: 921px;   
+height: 120px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+}
+.img11{
+    margin-top: 125px;
+    width: 616px;
+    height: 569px;
+    margin-left: 100px;
+    border-radius: 8px;
+}
+.img12{
+    width: 566px;
+height: 688px;
+margin-left: 864px;
+margin-top: -450px;
+border-radius: 8px;
+}
+.text8{
+    color: #1F222D;
+    margin-left: 293px;
+    text-align: center;
+    margin-top: 90px;
+    width: 921px;   
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+}
+.contact{
+height: 350px;
+
+background: rebeccapurple;
+}
+.list-group-item{
+    position: absolute;
+width: 100px;
+height: 40px;
+left: 111px;
+top: 493px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 40px;
+color: white;
+}
+.text-main{
+font-family: 'Montserrat';
+margin-right: 1308px;
+font-style: normal;
+font-weight: 500;
+font-size: 22px;
+line-height: 27px;
+color: white;
+margin-block-start: revert;
+}
+.end-div-last {
+    background: #1F222D;
+    margin-top: 100px;
+    height: 280px;
+}
+
+.group-img-end {
+    position: absolute;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+.h4-nav-end-hz {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+}
+
+.flex-end-pp {
+    display: flex;
+}
+
+.something-hzz-h4-all {
+    margin-left: 308px;
+    margin-top: 60px;
+    display: flex;
+}
+
+.why-us-end-2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    margin-left: 250px;
+}
+.end-minus-trans{
+    text-decoration: none;
+}
+.why-us-end-3{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: white;
+    margin-left: 250px;
+}
+.p-end-link{
+    text-align: center;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 20px;
+color: white;
+margin-top: 66px;
+}
+navbar {
+    position: fixed !important;
+}
+
+.img-group {
+    margin-top: 14px;
+    margin-left: 200px;
+}
+
+.trans-none {
+    text-decoration: none;
+}
+
+
+.h4-nv-link-line {
+    color: #00345B;
+    opacity: 0.06;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 24px;
+    margin-left: 55px;
+    margin-top: 36px;
+    width: 2px;
+    height: 57px;
+}
+
+.btn-link-nav {
+    width: 219px;
+    height: 57px;
+    margin-top: 36px;
+    margin-left: 253px;
+    background: #EA361F;
+    opacity: 0.72;
+    border-radius: 28.5px;
+    border: none;
+}
+
+.btn-h4-link {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    margin-top: 10px;
+}
+
+.background-div-img {
+    background: url(./img/main-phone-top.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1024px; 
+}
+
+.btn-link-nav-v2 {
+    position: absolute;
+    width: 243px;
+    height: 65px;
+    background: #EF6E5D;
+    border-radius: 32.5px;
+    margin-left: 200px;
+    border: none;
+    margin-top: 54px
+}
+
+.btn-h4-link-v2 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    color: #FFFFFF;
+    padding-left: 25px;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+
+.h2-header {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 27px;
+    margin-left: 200px;
+    color: #FFFFFF;
+    opacity: 0.72;
+    padding-top: 301px;
+    position: relative;
+}
+
+.main-header {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 82px;
+    line-height: 86px;
+    color: #FFFFFF;
+    width: 580px;
+    height: 258px;
+    margin-left: 200px;
+    margin-top: 12px;
+}
+
+.h3-contant {
+    width: 506px;
+    height: 72px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    opacity: 0.72;
+    margin-left: 200px;
+    margin-top: 24px;
+}
+
+.containers-icons {
+    margin-left: 200px;
+    margin-top: 172px;
+}
+
+.div-con-one {
+    width: 472px;
+    height: 524px;
+    background: #F0F3F5;
+    border-radius: 18px;
+}
+
+.div-ic-2 {
+    margin-left: -40px;
+}
+
+.div-ic-3 {
+    margin-left: -80px;
+}
+
+.img-8-years {
+    width: 472px;
+    height: 262px;
+}
+
+.icon-1 {
+    margin-left: 191px;
+    margin-top: -50px;
+}
+.text-end-main{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color:white;
+    margin-left: -60px;
+}
+@media (max-width:500px){
+    .img-nav{
+        width: 100px;
+        height: 100px;
+    }
+    .div-header-nav{
+        background: rgba(255, 255, 255, 0.01);
+        backdrop-filter: blur(30px);
+        position: fixed !important;
+        width: 100%;
+        height: 129px;
+        z-index: 9999;
+    }
+    .h4-nv-link {
+    width: 54px;
+    margin-left: 0%;
+    height: 22px;
+    color: white;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    }
+    .h4-nv-link-line {
+        color: white;
+        opacity: 0.06;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 24px;
+        margin-left: 55px;
+        margin-top: 36px;
+        width: 2px;
+        height: 57px;
+    }
+    .img-main {
+        margin: auto;
+        width: 400px;
+        height: 120px;
+        width: auto;
+    }
+    .body {
+        background: #FBFBF9;
+        background: rgba(255, 255, 255, 1);
+        margin: 0;
+        overflow: overlay;
+    }
+    .navbar{
+        background-color: #1F222D;
+    }
+    .card-img-top{
+        width: 472px;
+        height: 262px;
+    }
+    .containers-icons {
+        margin-left: 200px;
+        margin-top: 172px;
+    }
+    .div-con-one-1{
+        width: 472px;
+        height: 524px;
+        background: #F0F3F5;
+        border-radius: 18px;
+        margin-left: 910px;
+        margin-top: -523px;
+    }
+    .div-con-one {
+        width: 472px;
+        height: 524px;
+        background: #F0F3F5;
+        border-radius: 18px;
+        margin-left: 40px;
+    }
+    
+    .img-8-years {
+        width: 472px;
+        height: 262px;
+    }
+    
+    .icon-1 {
+        margin-left: 191px;
+        margin-top: -50px;
+    }
+    
+    .h2-div-icons {
+        margin-top: 36px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 30px;
+        line-height: 37px;
+        text-align: center;
+        color: #111111;
+    }
+    
+    .p-div-icons {
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+        text-align: center;
+        color: #111111;
+        opacity: 0.54;
+        margin-top: 18px;
+        margin-left: 84px;
+    }
+    
+    .width1 {
+        width: 267px;
+        height: 60px;
+    }
+    
+    .width2 {
+        width: 294px;
+        height: 60px;
+    }
+    
+    .width3 {
+        width: 292px;
+        height: 60px;
+    }
+    .div-main{
+        padding: 70px;
+    }
+    img{
+    width: 682px;
+    height: 521px;
+    margin-left: 658px;
+    margin-top: 202px;
+    border-radius: 8px;
+    }
+    .img2{
+        margin-top: 60px;
+    width: 1240px;
+    height: 860px;
+    margin-left: 100px;
+    border-radius: 8px;
+    }
+    .img3{
+        margin-top: 100px;
+    width: 616px;
+    height: 569px;
+    margin-left: 100px;
+    border-radius: 8px;
+    }
+    .img4{
+    width: 566px;
+    height: 688px;
+    margin-left: 774px;
+    margin-top: -450px;
+    border-radius: 8px;
+    }
+    .img5{width: 154px;margin-left: 13%;height: 168.63px;background: url(кухня01_02.jpg);border-radius: 6px;/* width: 616px; *//* height: 569px; *//* margin-left: 100px; *//* margin-block: auto; *//* border-radius: 8px; */margin-top: 10%;}
+    .img6{width: 164px;height: 203.89px;margin-left: 55%;margin-top: -20%;background: url(Кухня02_02.jpg);border-radius: 6px;/* width: 566px; *//* height: 688px; *//* margin-left: 774px; *//* border-radius: 8px; *//* margin-top: -450px; */}
+    .img7{
+        margin-top: -30px;
+        width: 334px;
+        height: 286px;
+        margin-left: 17%;
+        /* top: 485px; */
+        background: url(livingren03.jpg);
+        border-radius: 6px;
+        /* width: 1240px; */
+        /* height: 860px; */
+        /* margin-left: 95px; */
+        /* border-radius: 8px; */
+        /* margin-top: 100px; */
+    }
+    .img8{
+        margin-top: 10px;
+        /* width: 1240px; */
+        /* height: 860px; */
+        /* margin-left: 95px; */
+        /* margin-top: 30px; */
+        width: 334px;
+        height: 286px;
+        margin-left: 17%;
+        top: 485px;
+        background: url(livingren03.jpg);
+        border-radius: 6px;
+    }
+    .text3{
+        color: #1F222D;
+        width: 921px;
+        height: 120px;
+        margin-left: 293px;
+        margin-top: 90px;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .text4{
+        display: none;
+        font-size: 12px;
+        color: #1F222D;
+        height: 120px;
+        /* margin-top: 90px; */
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 40px;
+        text-align: center;
+    }
+    .text5{
+        /* margin-top: 40px; */
+        /* width: 312px; */
+        /* height: 168px; */
+        /* margin-left: 20%; */
+        /* font-family: 'Montserrat'; */
+        /* font-style: normal; */
+        /* font-weight: 400; */
+        /* font-size: 12px; */
+        /* line-height: 24px; */
+        /* color: #1F222D; */
+        /* margin-left: 293px; */
+        /* text-align: center; */
+        /* margin-top: 90px; */
+        /* width: 921px; */
+        /* height: 120px; */
+        /* font-family: 'Montserrat'; */
+        /* font-style: normal; */
+        /* font-weight: 400; */
+        /* font-size: 30px; */
+        /* line-height: 40px; */
+        text-align: center;
+        margin-top: 40px;
+        width: 312px;
+        height: 168px;
+        margin-left: 20%;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        color: #1F222D;
+    }
+    .text2{
+        color: #1F222D;
+        margin-left: 293px;
+        text-align: center;
+        margin-top: 90px;
+        width: 921px;   
+    height: 120px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 40px;
+    }
+    .img9{
+        width: 154px;
+        margin-left: 11%;
+        height: 168.63px;
+        background: url(кухня01_02.jpg);
+        border-radius: 6px;
+        margin-top: -18%;
+        /* width: 616px; */
+        /* height: 569px; */
+        /* margin-left: 100px; */
+        /* border-radius: 8px; */
+    }
+    .img10{
+        width: 164px;
+        height: 203.89px;
+        margin-left: 55%;
+        margin-top: -20%;
+        background: url(Кухня02_02.jpg);
+        border-radius: 6px;
+        /* width: 566px; */
+        /* height: 688px; */
+        /* margin-left: 774px; */
+        /* margin-top: -450px; */
+        /* border-radius: 8px; */
+        /* width: 154px; */
+        /* margin-left: 13%; */
+        /* height: 168.63px; */
+        /* background: url(кухня01_02.jpg); */
+        /* border-radius: 6px; */
+    }
+    .text6{
+        text-align: center;
+        margin-top: 40px;
+        width: 312px;
+        height: 168px;
+        margin-left: 20%;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        /* color: #1F222D; */
+        /* margin-left: 293px; */
+        /* text-align: center; */
+        /* margin-top: 90px; */
+        /* width: 921px; */
+        /* height: 120px; */
+        /* font-family: 'Montserrat'; */
+        /* font-style: normal; */
+        /* font-weight: 400; */
+        /* font-size: 30px; */
+        /* line-height: 40px; */
+    }
+    .text7{
+        text-align: center;
+        margin-top: 40px;
+        width: 312px;
+        height: 168px;
+        margin-left: 20%;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        color: #1F222D;
+        /* margin-left: 293px; */
+        /* text-align: center; */
+        /* margin-top: 90px; */
+        /* width: 921px; */
+        /* height: 120px; */
+        /* font-family: 'Montserrat'; */
+        /* font-style: normal; */
+        /* font-weight: 400; */
+        /* font-size: 30px; */
+        /* line-height: 40px; */
+    }
+    .img11{
+        width: 154px;
+        margin-left: 11%;
+        height: 168.63px;
+        background: url(кухня01_02.jpg);
+        border-radius: 6px;
+        margin-top: -1%;
+        /* margin-top: 125px; */
+        /* width: 616px; */
+        /* height: 569px; */
+        /* margin-left: 100px; */
+        /* border-radius: 8px; */
+    }
+    .img12{
+        /* width: 566px; */
+        /* height: 688px; */
+        /* margin-left: 774px; */
+        /* margin-top: -450px; */
+        /* border-radius: 8px; */
+        width: 164px;
+        height: 203.89px;
+        margin-left: 55%;
+        margin-top: -20%;
+        background: url(Кухня02_02.jpg);
+        border-radius: 6px;
+    }
+    .text8{
+        text-align: center;
+        margin-top: 40px;
+        width: 312px;
+        height: 168px;
+        margin-left: 20%;
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 24px;
+        color: #1F222D;
+        /* color: #1F222D; */
+        /* margin-left: 293px; */
+        /* text-align: center; */
+        /* margin-top: 90px; */
+        /* width: 921px; */
+        /* font-family: 'Montserrat'; */
+        /* font-style: normal; */
+        /* font-weight: 400; */
+        /* font-size: 30px; */
+        /* line-height: 40px; */
+    }
+    .navbar-toggler{
+        margin-right: 10%;
+    }
+    .contact{
+    height: 350px;
+    
+    background: rebeccapurple;
+    }
+    .list-group-item{
+        position: absolute;
+    width: 100px;
+    height: 40px;
+    left: 111px;
+    top: 493px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 40px;
+    color: white;
+    }
+    .text-main{
+    font-family: 'Montserrat';
+    margin-right: 1308px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: white;
+    margin-block-start: revert;
+    }
+    .end-div-last {
+        background: #1F222D;
+        margin-top: 30px;
+        height: 50px;
+    }
+    
+    .group-img-end {
+        position: absolute;
+        margin-left: 80px;
+        margin-top: 60px;
+    }
+    
+    .h4-nav-end-hz {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 27px;
+        color: white;
+    }
+    
+    .flex-end-pp {
+        display: flex;
+    }
+    
+    .something-hzz-h4-all {
+        margin-left: 308px;
+        margin-top: 60px;
+        display: flex;
+    }
+    
+    .why-us-end-2 {
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        color: white;
+        margin-left: 250px;
+    }
+    .end-minus-trans{
+        display: none;
+        text-decoration: none;
+    }
+    .why-us-end-3{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        color: white;
+        margin-left: 250px;
+    }
+    .p-end-link{
+        text-align: center;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: white;
+    margin-top: 66px;
+    }
+    .text-end-main{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 500;
+        font-size: 22px;
+        line-height: 27px;
+        color:white;
+        margin-left: -60px;
+    }
+    @media (max-width:500px){
+        .img {
+            margin-top: 5%;
+            width: 334px;
+            height: 286px;
+            margin-left: 17%;
+            top: 485px;
+            background: url(livingren03.jpg);
+            border-radius: 6px;
+        }
+        .img2{
+            margin-top: 10px;
+            width: 334px;
+            height: 286px;
+            margin-left: 17%;
+            top: 485px;
+            background: url(livingren03.jpg);
+            border-radius: 6px;
+            }
+        .text2{
+            margin-top: 40px;
+            width: 311px;
+            height: 144px;
+            margin-left: 20%;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 24px;
+        }
+        .img3{
+            margin-top: 10px;
+            width: 154px;
+            margin-left: 11%;
+            height: 168.63px;
+            background: url(кухня01_02.jpg);
+            border-radius: 6px;
+        }
+        .img4{
+            
+    width: 164px;
+            
+    height: 203.89px;
+            
+    margin-left: 55%;
+            
+    margin-top: -20%;
+            
+    background: url(Кухня02_02.jpg);
+            
+    border-radius: 6px;
+        }
+        .text3{
+            margin-top: 40px;
+            width: 312px;
+            height: 168px;
+            margin-left: 20%;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 12px;
+            line-height: 24px;
+        }
+    }
+    .navbar {
+        width: 100%;
+    }
+    .navbar {
+        width: 100%;
+        position: relative;
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        padding-top: 0.5rem;
+        padding-bottom: 0.5rem;
+    }
+    .trans-none {
+        text-decoration: none;
+        font-family: 'Montserrat';
+        margin-left: 50px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        color: white;
+        line-height: 24px;
+        margin-top: auto;
+        margin-bottom: auto;
+        padding: inherit;
+    }
+    .navbar-light .navbar-toggler {
+    color: white;
+    border-color: white;
+}
+.nav-link1{
+    display: none;
+}
+.flex-end-pp{
+    display: none;
+}
+.flex-end-pp2{
+    display: none;
+}
+.flex-end-pp3{
+    display: none;
+}
+}
